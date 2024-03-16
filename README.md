@@ -82,9 +82,6 @@ _Diaz Cristian_
 
 Codigo y documentacion copyright 2023-2024 de los autores de TaskMaster2000. Distribuido bajo la licencia MIT. Consulte el archivo LICENSE.md para obtener mas informacion.
 
-
-
-
 <!---Markdown links & images--->
 
 [HTML5-badge]:https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
