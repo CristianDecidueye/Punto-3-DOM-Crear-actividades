@@ -1,5 +1,7 @@
 <p>
 Principal referente en Argentina en el ambito de Organizacion de tareas se destaca.
+<br>
+
 ## 📋 Tabla de contenido
 <!----Control mas espacio para seleccionar categoria en el parentesis---->
 - [💻 Tabla de contenido](#📋-tabla-de-contenido)
